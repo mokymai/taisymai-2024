@@ -67,7 +67,7 @@ body:
         - kitas
       default: 0
   - type: dropdown
-    id: course
+    id: teacher
     attributes:
       label: Dėstytojas, kuris rengė medžiagą
       options:
