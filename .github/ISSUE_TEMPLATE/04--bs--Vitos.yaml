@@ -8,7 +8,7 @@ body:
       value: |
           Temos **pavadinime** apibūdinkite netikslumo esmę, kuri padėtų **kitiems** skaitytojams **greitai susiorientuoti**, kad apie šį netikslumą jau pranešta.
 
-          1. Palikite dalį „`[Vitos]`: “;
+          1. Palikite dalį „`[Vitos]`“;
           2. Apibūdinkite netikslumo esmę. Jei galima, tokiu formatu: netikslumas → taisymas;
           Pvz.:
           „[Vitos]: kopppiuteris → kompiuteris (rašyba)“
