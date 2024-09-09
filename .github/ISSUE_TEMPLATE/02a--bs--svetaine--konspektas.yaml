@@ -1,6 +1,6 @@
 name: Netikslumas teorijos svetainėje `/konspektas`
 description: Pranešimas apie netikslumą svetainėje mokymai.github.io/konspektas
-title: '[BS-teorija]: netikslumas → taisymas (netikslumo esmė)'
+title: '[teorija]: netikslumas → taisymas (netikslumo esmė)'
 labels: ["Naujas :new:", "Vieta: teorijos svetainė :globe_with_meridians:"]
 body:
 
@@ -9,11 +9,11 @@ body:
       value: |
           Temos **pavadinime** apibūdinkite netikslumo esmę, kuri padėtų **kitiems** skaitytojams **greitai susiorientuoti**, kad apie šį netikslumą jau pranešta.
 
-          1. Palikite dalį „`[BS-teorija]`: “;
+          1. Palikite dalį „`[teorija]`: “;
           2. Apibūdinkite netikslumo esmę. Jei galima, tokiu formatu: netikslumas → taisymas;
           Pvz.:
-          „[BS-teorija]: kopppiuteris → kompiuteris (rašyba)“
-          „[BS-teorija]: praleistas žodis "tačiau"“
+          „[teorija]: kopppiuteris → kompiuteris (rašyba)“
+          „[teorija]: praleistas žodis "tačiau"“
   - type: input
     id: url
     attributes:
