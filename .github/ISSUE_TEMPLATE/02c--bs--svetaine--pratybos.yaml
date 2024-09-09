@@ -3,7 +3,6 @@ description: Pranešimas apie netikslumą svetainėje mokymai.github.io/biochemi
 title: '[pratybos]: netikslumas → taisymas (netikslumo esmė)'
 labels: ["Naujas :new:", "Vieta: pratybų svetainė :globe_with_meridians:"]
 body:
-
   - type: markdown
     attributes:
       value: |
