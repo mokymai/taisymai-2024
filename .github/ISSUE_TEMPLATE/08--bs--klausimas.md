@@ -1,5 +1,5 @@
 ---
-name: Klausimas (BS-2024)
+name: Klausimas
 about: Klausimas
 title: '[?]: Klausimo esmė'
 labels: ['question :question:']
