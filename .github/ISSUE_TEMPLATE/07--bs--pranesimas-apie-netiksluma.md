@@ -1,5 +1,5 @@
 ---
-name: Netikslumas kitoje vietoje (BS-2024)
+name: Netikslumas kitoje vietoje
 about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
 title: '[vieta]: netikslumas → taisymas (netikslumo esmė)'
 labels: ''
