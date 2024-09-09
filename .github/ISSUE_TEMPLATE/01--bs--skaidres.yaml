@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: screenshot
     attributes:
-      label: Ekrano nuotrauka su pažymėtais netikslumais
+      label: Ekrano nuotrauka su **pažymėtais** netikslumais
       description: Viena ar kelios ekrano nuotraukos („Screenshot“) su pažymėtomis netikslumų vietomis.
     validations:
       required: true
