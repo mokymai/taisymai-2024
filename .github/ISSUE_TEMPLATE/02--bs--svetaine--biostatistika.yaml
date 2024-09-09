@@ -14,7 +14,7 @@ body:
           Pvz.:
           „[BS-teorija]: kopppiuteris → kompiuteris (rašyba)“
           „[BS-teorija]: praleistas žodis "tačiau"“
-  - type: textarea
+  - type: input
     id: url
     attributes:
       label: Nuoroda
