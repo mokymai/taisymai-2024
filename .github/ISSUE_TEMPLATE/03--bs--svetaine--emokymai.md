@@ -1,8 +1,8 @@
 ---
-name:  Netikslumas „Emokymai“ kurso svetainėje (BS-2024)
+name:  Netikslumas paskaitų „Emokymai“ svetainėje
 about: Pranešimas apie netikslumą biostatistikos „Emokymai“ kurse
 title: '[Emokymai]: netikslumas → taisymas (netikslumo esmė)'
-labels: ['Website :earth_americas:']
+labels: ["Naujas :new:", "Vieta: VU Emokymai"]
 assignees: ''
 
 ---
