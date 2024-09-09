@@ -46,6 +46,11 @@ body:
     validations:
       required: true
   - type: input
+    id: error-with-context
+    attributes:
+      label: Netikslumo tekstas su keliais žodžiais aplinkui
+      description: To reikia greitai paieškai dokumente.
+  - type: input
     id: error
     attributes:
       label: Netikslumo tekstas
