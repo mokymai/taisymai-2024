@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-          Temos **pavadinime** apibūdinkite netikslumo esmę, kuri padėtų **kitiems skaitytojams greitai susiorientuoti**, kad apie šį netikslumą jau pranešta.
+          Temos **pavadinime** apibūdinkite netikslumo esmę, kuri padėtų **kitiems** skaitytojams **greitai susiorientuoti**, kad apie šį netikslumą jau pranešta.
 
           1. Prašykite skaidrių bloko kodą (pvz., `P01-4`);  
           2. Bloko versiją, pvz., (`v1.0`). Jei versija neparašyta, tai ji yra `1.0`;  
@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: screenshot
     attributes:
-      label: Ekrano nuotrauka su **pažymėtais** netikslumais
+      label: Ekrano nuotrauka su pažymėtais netikslumais
       description: Viena ar kelios ekrano nuotraukos („Screenshot“) su pažymėtomis netikslumų vietomis.
     validations:
       required: true
