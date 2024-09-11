@@ -2,6 +2,7 @@ name: Netikslumas Vitos pratybų medžiagoje
 description: Pranešimas apie netikslumą Vitos pratybose
 title: '[Vitos]: netikslumas → taisymas (netikslumo esmė)'
 labels: ["Naujas :new:", "Vitos pratybos :zap:"]
+assignees: ["VitaT"]
 body:
   - type: markdown
     attributes:
